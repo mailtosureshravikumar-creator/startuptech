@@ -1,0 +1,10 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.name h1{
+  color: red;
+  padding: 80px;
+}
+
